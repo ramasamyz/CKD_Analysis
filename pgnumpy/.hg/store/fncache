@@ -1,9 +1,0 @@
-data/setup.py.i
-data/pgnumpy/cpgnumpy_wrap.cc.i
-data/pgnumpy/pgnumpy.py.i
-data/pgnumpy/__init__.py.i
-data/pgnumpy/cpgnumpy.h.i
-data/pgnumpy/cpgnumpy.cc.i
-data/pgnumpy/cpgnumpy.i.i
-data/pgnumpy/cpgnumpy.py.i
-data/pgnumpy/runswig.sh.i

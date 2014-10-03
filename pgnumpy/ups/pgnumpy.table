@@ -1,4 +1,0 @@
-
-setupOptional("python")
-setupOptional("numpy")
-envPrepend(PYTHONPATH,${PRODUCT_DIR}/lib/python2.7/dist-packages)
