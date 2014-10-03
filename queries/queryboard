@@ -1,0 +1,3 @@
+﻿select idperson from cdr_person limit 1;
+
+select * from cdr_lab_result where idperson = (select idperson from cdr_person   limit 1 offset 12) and srcvaluestr = 'Creatinine, serum';
